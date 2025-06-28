@@ -1,10 +1,10 @@
-# Newsers_Html_Template
+#Newsers_Html_Template
 
 ![Preview of Newsers Template](preview.jpg)
 
 This is a professional HTML/CSS template for news websites, sourced from [ThemeWagon](https://themewagon.com). The template is fully responsive, optimized for all devices.
 
-## Key Features
+##Key Features
 - **Fully Responsive Design** for excellent display on mobile, tablet, and desktop 
 - Utilizes **Sweeper.js** for sliders and attractive motion effects
 - Incorporates **Font Awesome** for modern icons
@@ -69,9 +69,6 @@ css
 | Safari    | Last 2 versions      |
 | Edge      | Last 2 versions      |
 | Opera     | Last 2 versions      |
-
-## License
-This project is licensed under the **MIT** License. For more details, please refer to the [LICENSE](LICENSE) file.
 
 ## Contributing
 To report bugs or suggest new features, feel free to use the [Issues]([https://github.com/yourusername/newsers-template/issues](https://github.com/mehrdad06/Newsers_Html_Template.git)) section on GitHub or submit a Pull Request.
