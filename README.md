@@ -1,5 +1,5 @@
 # Newsers_Html_Template
-البته! در زیر یک فایل README.md برای پروژه شما به زبان انگلیسی آماده کرده‌ام:
+
 ![Preview of Newsers Template](preview.jpg)
 
 This is a professional HTML/CSS template for news websites, sourced from [ThemeWagon](https://themewagon.com). The template is fully responsive, optimized for all devices.
